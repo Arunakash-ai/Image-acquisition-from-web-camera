@@ -1,5 +1,5 @@
 ### EX NO : 02
-### DATE  : 08.04.2022
+### DATE  : 05.04.2023
 # <p align="center">Image-Acquisition-from-Web-Camera</p>
 ## Aim
  
